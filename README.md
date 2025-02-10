@@ -6,7 +6,7 @@
 <br>
 <br>
 <h2>Tecnologias utilizadas nesse Projeto:</h2>
-<img src="![image](https://github.com/user-attachments/assets/02a7ba82-0f6c-4d11-b688-4d2f1fabecb4)" width="40" heigth="40">
+<img src="[![image](https://github.com/user-attachments/assets/02a7ba82-0f6c-4d11-b688-4d2f1fabecb4)](https://cdn-icons-png.flaticon.com/512/919/919827.png)" width="40" heigth="40">
 
           
           
