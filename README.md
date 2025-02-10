@@ -6,7 +6,7 @@
 <br>
 <br>
 <h2>Tecnologias utilizadas nesse Projeto:</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" heigth="20px" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" heigth="150px" width="150px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" heigth="150px" width="150px"/>
           
           
             
