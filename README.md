@@ -5,7 +5,7 @@
 </p>
 <br>
 <h2>Resultado Final: :fire: </h2>
-<p>Acesse <a href="http://127.0.0.1:5500/index.html" text-decoration="none">:point_right: aqui :point_left: </p>
+<p>Acesse :point_right: <a href="http://127.0.0.1:5500/index.html"> aqui</a> :point_left: </p>
 
 
 
