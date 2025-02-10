@@ -6,9 +6,8 @@
 <br>
 <br>
 <h2>Tecnologias utilizadas nesse Projeto:</h2>
-<img>
+<img src="![image](https://github.com/user-attachments/assets/02a7ba82-0f6c-4d11-b688-4d2f1fabecb4)" width="40" heigth="40">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" >
           
           
           
